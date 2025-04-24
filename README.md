@@ -14,3 +14,7 @@ AI
 # Streamlit + Langchain to Build a UI ChatBot
 ![Screenshot 2025-04-20 141224](https://github.com/user-attachments/assets/f0ca2c1e-10a8-44eb-8a08-f864be51bcc9)
 
+
+# Chat with Web Apps
+![Screenshot 2025-04-23 190312](https://github.com/user-attachments/assets/5509b40c-e4a8-4be5-a6a7-c582cfa550d0)
+
