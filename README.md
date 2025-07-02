@@ -18,3 +18,5 @@ AI
 # Chat with Web Apps
 ![Screenshot 2025-04-23 190312](https://github.com/user-attachments/assets/5509b40c-e4a8-4be5-a6a7-c582cfa550d0)
 
+# AGENT-SSH
+![Screenshot 2025-07-01 175617](https://github.com/user-attachments/assets/51aadd67-c150-4a03-a993-e73162ed9752)
